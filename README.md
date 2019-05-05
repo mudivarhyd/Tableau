@@ -1,1 +1,2 @@
 # Tableau
+Tableau home work consits of jupyter notebook file to extract the data by month for the year 2018 and merge in and save it as a csv file, which is used to build Tableau reports and dashboards.
